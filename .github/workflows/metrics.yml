@@ -18,7 +18,7 @@ jobs:
           user: UdayVaidya
 
           # ===== LOOK & STYLE =====
-          template: classic
+          template: repository
           config_display: large
           config_timezone: Asia/Kolkata
           config_animations: yes
